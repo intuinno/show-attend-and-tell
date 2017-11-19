@@ -1,0 +1,10 @@
+*.pkl
+*.pyc
+data/
+image/
+log/
+model/
+nohup.out
+*.swp
+.ipynb_checkpoints/
+
